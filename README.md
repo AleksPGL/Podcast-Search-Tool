@@ -204,7 +204,6 @@ The tool recognizes and enhances these topic categories:
 - Improve natural language processing
 - Add podcast recommendation features
 - Create a web interface version
-- Add podcast playlist/favorites functionality
 
 ## 📄 License
 
@@ -215,7 +214,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[Listen Notes](https://www.listennotes.com/)** - Comprehensive podcast database and API
 - **[Podscan](https://podscan.fm/)** - Advanced podcast search and analytics
 - **[Agno Framework](https://github.com/agno-ai/agno)** - Intelligent agent framework
-- All the amazing podcast creators who make this content possible!
 
 ## 📞 Support
 
@@ -223,8 +221,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Check existing issues before creating new ones
 - Join discussions in the repository
 
----
-
-**Made with ❤️ for podcast lovers everywhere**
-
-*Find your next favorite podcast in seconds, not hours.*
