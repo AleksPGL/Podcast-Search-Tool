@@ -18,7 +18,7 @@ An AI-powered command-line tool that searches multiple podcast APIs using natura
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/podcast-search-tool.git
+   git clone https://github.com/AleksPGL/podcast-search-tool.git
    cd podcast-search-tool
    ```
 
